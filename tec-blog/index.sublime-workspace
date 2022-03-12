@@ -1,0 +1,460 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"re",
+				"red"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"bu",
+				"blue"
+			],
+			[
+				"FO",
+				"font-family"
+			],
+			[
+				"ara",
+				"area-cabecalho"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"une",
+				"underline"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"gre",
+				"green"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"bacg",
+				"background-image"
+			],
+			[
+				"n",
+				"background-image"
+			],
+			[
+				"img",
+				"background-image"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"t",
+				"both"
+			],
+			[
+				"gr",
+				"gray"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"bl",
+				"blue"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"backgr",
+				"background-position"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"BA",
+				"background-color"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"BL",
+				"blue"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"ty",
+				"type"
+			],
+			[
+				"o",
+				"ol"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"HE",
+				"head"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"File: Save All"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Julio Pri/OneDrive/Curso de Desenvolvimento Web/Css3 IntermediarioAvançado/Css/index.html",
+		"/C/Users/Julio Pri/Downloads/Package Control.sublime-package",
+		"/C/Users/Julio Pri/OneDrive/Curso de Desenvolvimento Web/Css3 IntermediarioAvançado/Css/estilo.css",
+		"/C/Users/Julio Pri/OneDrive/Curso de Desenvolvimento Web/Css3 IntermediarioAvançado/seletores.html",
+		"/C/Users/Julio Pri/OneDrive/Curso de Desenvolvimento Web/ProjetoTopOne/index.html",
+		"/C/Users/Julio Pri/OneDrive/Curso de Desenvolvimento Web/ProjetoTopOne/css/estilo.css",
+		"/C/Users/Julio Pri/OneDrive/Curso de Desenvolvimento Web/ProjetoTecBlog/css/estilo.css",
+		"/C/Users/Julio Pri/OneDrive/Curso de Desenvolvimento Web/ProjetoTecBlog/index.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/ProjetoTecBlog/index.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/ProjetoTecBlog/css/estilo.css",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/Links/links.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/TESTE/estilo.css",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/ProjetoAnnaBella/estilo.css",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/TESTE/index.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/TESTE/css/estilo.css",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/ProjetoCCS3intermediario/estilo.css",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/SobrepondoElementos/sobrepondo-elementos.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/SobrepondoElementos.html/sobrepondo-elementos.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/ProjetoPosicionamento/sobrepondo-elementos.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/ProjetoPosicionamento/sobrepondo-elementos",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/ProjetoPosicionamento/posicionamento.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/ProjetosElementosFlutuantes/elementos-inline-block.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/ProjetosElementosFlutuantes/elementos-flutuantes.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/ProjetosElementosFlutuantes/elementos-flutuantes-patrica.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/ProjetoCCS3intermediario/modelo-caixa.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/Conteudos das Aulas/Aula 40 Modelo de caixa/14-arquivos-da-aula-modelo-caixa/estilo.css",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/Conteudos das Aulas/Aula 37,38,39 Projeto anna bella/ProjetoFinalAnnaBella/estilo.css",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/ProjetoAnnaBella/index.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/ProjetoAnnaBella/contato.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/ProjetoAnnaBella/campanhas-publicitaria.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/ProjetoAnaBela/SiteAnaBela/estilo.css",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/ProjetoPriscilaCoutinho/index.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/ProjetoPriscilaCoutinho/estilo.css",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/ProjetoAnaBela/SiteAnaBela/contato.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/ProjetoAnaBela/SiteAnaBela/index.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/Css/ProjetoCSS3/pagina1.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/Css/ProjetoCSS3/pagina2.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/Css/ProjetoCSS3/estilo.css",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/ProjetoAnaBela/37-arquivos-aula-#projeto-anna-bella-pagina-inicial/37. #ProjetoAnna Bella/estilo.css",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/Css/ProjetoCSS3/cor-imagem-fundo.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/Css/ProjetoCSS3/estilos-textos.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/Css/ProjetoCSS3/estilo-textos.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/Css/ProjetoCSS3/tamanhos-textos.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/Css/aula 33/bordas.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/Css/aula 33/div-span.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/Css/ProjetoCSS3/fontes-cores.htm",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/Css/ProjetoCSS3/teste.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/Css/ProjetoCSS3/teste",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/Css/ProjetoCSS3/bordas.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/Css/ProjetoCSS3/div-span.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/Css/ProjetoCSS3/classes-ids.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/Css/ProjetoCSS3/inline_style.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/Meu Site Teste/index.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/ProjetoFinalHtml/contato.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/ProjetoFinalHtml/index.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/ProjetoFinalHtml/quemsomos.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/Caracteres/index.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/Formulario/index.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/Aula Tabelas/index.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/Novo Projeto/contato.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/Novo Projeto/index.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/Projeto/index.htm",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/Projeto/imagem.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/Projeto/Link.html",
+		"/C/Users/Julio Pri/Documents/Curso de Desenvolvimento de site/Projeto/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"absolute",
+			"\t<",
+			"\">\n",
+			"\t\t\n",
+			"}"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ele",
+				"elementos-flutuantes.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
