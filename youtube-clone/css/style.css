@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #ddd;
+}
+
+header {
+    background-color: #;
+}
+
+main {
+    max-width: 1200px;
+    margin: auto;
+
+    display: grid;
+    grid-row-gap: 1.rem;
+
+    grid-template-areas: 
+      'video-player   video-player'
+      'video-info     video-info'
+      'actions        actions'
+      'channel        subscribe'
+      'up-next        up-next ';
+}
+
+.video-player {
+    background-color: #ffeb3b;
+}
